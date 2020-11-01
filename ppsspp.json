@@ -16,11 +16,12 @@
         "https://www.ppsspp.org/img/screens/small/Daxter_-_A_Yuanda.jpg",
         "https://www.ppsspp.org/img/screens/small/Dragon_Ball_Z_Tenkaichi_Tag_Team_-_A_Yuanda.jpg"
       ],
+      "size": 0,
       "subtitle": "A PSP emulator",
       "tintColor": "33b5e5",
       "version": "Latest",
-      "versionDate": "",
-      "versionDescription": ""
+      "versionDate": "N/A",
+      "versionDescription": "Latest Dev Version"
     }
   ],
   "identifier": "com.example.source",
